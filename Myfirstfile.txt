@@ -1,0 +1,2 @@
+This is first new file under r17manju organization.
+This repository will be used to practice the git commands
